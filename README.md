@@ -10,7 +10,7 @@
 
 *DURATION*: 8 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 Name of Task: Using Verilog to Design and Simulate a Synchronous RAM Module
 
